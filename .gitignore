@@ -1,0 +1,9 @@
+__pycache__
+model/embedding_matrix.pkl
+model/glove.6B.200d.txt
+model/Image_Caption_Gen.model
+model/model_plot.png
+model/test2048.pkl
+model/train2048.pkl
+model/vocab.pkl
+model/embeddings_index.pkl
